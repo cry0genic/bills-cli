@@ -1,0 +1,5 @@
+Bill breakdown: 
+Cake:                     ...5 
+Ice-Cream:                ...2.5 
+tip:                      ...$1 
+total:                    ...$8.50
